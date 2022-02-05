@@ -5,8 +5,8 @@ int main(void)
 	int c, d, e;
 	int dd;
 
-	scanf("%d\n", &a);
-	scanf("%d\n", &b);
+	scanf("%d", &a);
+	scanf("%d", &b);
 
 	c = b / 100; //100의 자리
 	dd = b % 100;

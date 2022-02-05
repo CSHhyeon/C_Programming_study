@@ -2,7 +2,7 @@
 int main(void)
 {
 	int N;
-	scanf("%d\n", &N);
+	scanf("%d", &N);
 	printf("%d * 1 = %d\n", N, N * 1);
 	printf("%d * 2 = %d\n", N, N * 2);
 	printf("%d * 3 = %d\n", N, N * 3);
